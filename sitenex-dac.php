@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Doctors or Clinics Management
- * Plugin URI: http://www.sitenex.com
+ * Plugin URI: N/A
  * Version: 1.0
  * Description: Doctors or clinics management system.
- * Author: Saddam Hossain
- * Author URI: http://www.sitenex.com
+ * Author: Saddam Hossain Azad
+ * Author URI: https://github.com/saddamazad
 **/
 
 if ( ! defined( 'ABSPATH' ) ) { 
